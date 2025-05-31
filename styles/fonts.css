@@ -1,0 +1,17 @@
+/* Tilda Sans - Black */
+@font-face {
+    font-family: 'tilda-sans';
+    src: url('/fonts/tilda-sans_black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Tilda Sans - Medium */
+@font-face {
+    font-family: 'tilda-sans';
+    src: url('/fonts/tilda-sans_medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
